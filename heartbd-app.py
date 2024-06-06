@@ -17,7 +17,7 @@ st.button("Analyze my results")
 
 
 # Call API to run model on input data
-url = 'http://127.0.0.1:8000/'
+url = 'http://127.0.0.1:8000/predict?'
 params = {}
 response = requests.get(url, params=params)
 
