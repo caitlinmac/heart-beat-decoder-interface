@@ -17,7 +17,7 @@ st.button("Analyze my results")
 
 
 # Call API to run model on input data
-url = 'https://taxifare.lewagon.ai/predict'
+url = 'http://127.0.0.1:8000/'
 params = {}
 response = requests.get(url, params=params)
 
