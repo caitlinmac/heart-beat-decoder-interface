@@ -12,10 +12,10 @@ Welcome to heartbeatDECODER!
 
 The heartbeatDECODER tool allows you  to quickly and easily  identify irregular heart beat patterns from a single or double lead ECG measurement!
 
-heartbeatDECODER uses advanced machine learning algorithms to analyze complex ECG signal traces and extract meaningful information is compatible with 1 or 2-lead ECG - you can use the sensor of a smartwatch or a simplified clinical device
+heartbeatDECODER uses advanced machine learning algorithms to analyze complex ECG signal traces and extract meaningful information. It is compatible with 1 or 2-lead ECG - so you can use the sensor of a smartwatch or a simplified clinical device.
 
 With heartbeatDECODER, you have access to clinician-level diagnostic precision on your own terms.
-Identify early signs of heart abnormalities and cardiovascular disease so you can act fast and improve your outcomes!
+Identify early signs of heart abnormalities and cardiovascular disease so you can act fast and improve your health outcomes!
 '''
 
 
