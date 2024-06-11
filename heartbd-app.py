@@ -4,17 +4,20 @@ import requests
 
 '''
 # heartbeatDECODER
-## A machine learning model to classify ECG results
+## your AI-powered heart health partner
 '''
+# ## AI Clinician to analyze your ECG results machine learning model to classify ECG results
+
 
 '''
-Welcome to heartbeatDECODER!
+Welcome to **heartbeatDECODER**!
 
-The heartbeatDECODER tool allows you  to quickly and easily  identify irregular heart beat patterns from a single or double lead ECG measurement!
+The heartbeatDECODER tool allows you  to quickly and easily identify irregular heart beat patterns from a single or double lead ECG measurement!
 
 heartbeatDECODER uses advanced machine learning algorithms to analyze complex ECG signal traces and extract meaningful information. It is compatible with 1 or 2-lead ECG - so you can use the sensor of a smartwatch or a simplified clinical device.
 
 With heartbeatDECODER, you have access to clinician-level diagnostic precision on your own terms.
+
 Identify early signs of heart abnormalities and cardiovascular disease so you can act fast and improve your health outcomes!
 '''
 
@@ -105,13 +108,13 @@ params = {'_0preRR': _0preRR,
 
 
 
-response = requests.get(url, params=params)
+# response = requests.get(url, params=params)
 
 # Output results
 st.markdown('''
 ## The results are in...
 ''')
-st.write(f"{response.json()}")
+# st.write(f"{response.json()}")
 
 # from david:
 """params ={}
