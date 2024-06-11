@@ -1,5 +1,6 @@
 import streamlit as st
 import requests
+#from streamlit_lottie import st_lottie
 
 '''
 # Heart Beat Decoder
@@ -13,6 +14,9 @@ st.markdown('''
 # input_columns = st.columns(2)
 st.button("Upload ECG results")
 st.button("Analyze my results")
+
+# Animation
+#st_lottie('https://lottiefiles.com/animations/ecg-nFJKmPyH46?from=search')
 
 
 # Call API to run model on input data
