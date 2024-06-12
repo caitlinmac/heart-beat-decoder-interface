@@ -22,5 +22,4 @@ heartbeatDECODER aims to provide accessible ECG analysis to empower individuals 
 For more information about ECG, heartbeatDECODER, and the research powering our advanced machine learning algorithms, please take a look at the following links:
 - ECG deep dive
 - heartbeatDECODER under the hood
-- Academic literature and resources for further reading
 ''')
